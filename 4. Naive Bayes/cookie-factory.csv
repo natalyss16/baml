@@ -1,0 +1,1001 @@
+product,age,preferences,money
+Unicorn,16,Rainbows,12.65
+No product,58,Cats,25.91
+Vanilla,38,Cats,25.39
+Unicorn,28,Rainbows,18.05
+Unicorn,45,Cats,3.27
+Unicorn,36,Rainbows,11.11
+Unicorn,40,Rainbows,9.61
+No product,32,Cats,15.88
+Vanilla,38,Rainbows,7.28
+Vanilla,51,Rainbows,1.45
+Unicorn,33,Black holes,20.27
+No product,29,Cats,38.21
+No product,32,Black holes,2.8
+Unicorn,34,Rainbows,26.8
+Unicorn,43,Black holes,0.14
+Unicorn,18,Rainbows,12.7
+Unicorn,26,Rainbows,0.6
+Unicorn,17,Rainbows,9.02
+Unicorn,66,Rainbows,3.84
+Unicorn,53,Cats,4.15
+Vanilla,82,Rainbows,12.93
+Unicorn,11,Rainbows,4.93
+Unicorn,35,Rainbows,11.0
+Unicorn,51,Rainbows,4.61
+Unicorn,16,Rainbows,14.95
+Vanilla,51,Rainbows,29.64
+Unicorn,29,Black holes,5.87
+Unicorn,49,Rainbows,0.8
+Unicorn,11,Black holes,17.35
+Unicorn,34,Cats,3.81
+Vanilla,47,Cats,25.25
+Unicorn,19,Rainbows,6.42
+Unicorn,50,Cats,13.1
+No product,62,Cats,32.53
+No product,52,Black holes,5.25
+No product,22,Rainbows,3.97
+Unicorn,59,Rainbows,4.58
+Unicorn,53,Rainbows,0.66
+Vanilla,54,Rainbows,3.06
+Unicorn,25,Rainbows,5.31
+Unicorn,44,Black holes,32.75
+Unicorn,43,Cats,11.63
+Unicorn,20,Rainbows,12.61
+No product,21,Black holes,0.48
+Unicorn,42,Black holes,11.33
+Vanilla,43,Cats,17.75
+Unicorn,11,Rainbows,2.51
+Unicorn,30,Rainbows,6.14
+Unicorn,17,Rainbows,15.75
+Unicorn,14,Cats,1.21
+No product,16,Black holes,0.5
+Vanilla,22,Cats,3.96
+No product,52,Rainbows,10.95
+No product,61,Black holes,5.69
+Unicorn,12,Black holes,3.69
+No product,27,Black holes,2.39
+Unicorn,34,Rainbows,3.66
+Unicorn,21,Rainbows,6.41
+Unicorn,36,Rainbows,44.53
+Unicorn,12,Rainbows,0.79
+Unicorn,20,Rainbows,8.29
+Unicorn,28,Black holes,2.24
+No product,11,Rainbows,8.85
+Unicorn,39,Rainbows,39.99
+Unicorn,20,Rainbows,1.36
+Unicorn,31,Rainbows,5.86
+Unicorn,46,Black holes,15.17
+No product,15,Black holes,2.71
+Unicorn,31,Black holes,13.81
+No product,89,Black holes,8.02
+Vanilla,47,Black holes,3.91
+Unicorn,17,Rainbows,6.23
+Unicorn,10,Black holes,4.82
+No product,29,Black holes,4.14
+Vanilla,70,Cats,32.92
+Vanilla,31,Rainbows,4.56
+Vanilla,52,Cats,4.85
+Unicorn,45,Rainbows,5.74
+Unicorn,10,Rainbows,3.48
+Unicorn,45,Rainbows,2.6
+No product,61,Rainbows,16.13
+Vanilla,32,Rainbows,0.01
+Unicorn,27,Rainbows,7.48
+Unicorn,53,Rainbows,3.54
+Unicorn,40,Cats,3.84
+Unicorn,77,Black holes,12.12
+Vanilla,46,Cats,32.5
+Vanilla,26,Black holes,25.0
+No product,50,Rainbows,15.98
+Unicorn,21,Black holes,39.19
+Unicorn,38,Rainbows,10.49
+Vanilla,43,Rainbows,15.68
+Vanilla,55,Cats,22.05
+Unicorn,23,Rainbows,0.91
+Vanilla,39,Cats,2.62
+Unicorn,26,Black holes,0.89
+Unicorn,31,Rainbows,34.27
+Unicorn,45,Rainbows,4.0
+Unicorn,64,Rainbows,1.09
+Unicorn,38,Black holes,10.35
+Unicorn,24,Rainbows,11.07
+Vanilla,51,Rainbows,9.74
+Unicorn,24,Rainbows,11.85
+Unicorn,36,Black holes,3.53
+No product,34,Rainbows,6.03
+Unicorn,18,Rainbows,0.17
+Unicorn,13,Rainbows,37.99
+Vanilla,57,Rainbows,6.87
+Unicorn,21,Rainbows,3.27
+Unicorn,19,Rainbows,12.77
+Unicorn,19,Black holes,13.89
+Unicorn,17,Rainbows,10.67
+No product,23,Cats,4.02
+No product,18,Rainbows,4.19
+Vanilla,66,Cats,1.56
+No product,49,Black holes,15.24
+No product,62,Rainbows,3.7
+Unicorn,11,Rainbows,4.25
+No product,51,Rainbows,2.18
+Unicorn,10,Black holes,3.58
+No product,43,Cats,0.82
+No product,12,Black holes,5.85
+Unicorn,66,Black holes,10.32
+Unicorn,24,Black holes,22.78
+Unicorn,22,Rainbows,33.22
+Unicorn,34,Rainbows,1.27
+No product,89,Rainbows,6.12
+No product,64,Black holes,17.1
+Unicorn,17,Cats,1.91
+Unicorn,54,Black holes,32.81
+Unicorn,39,Rainbows,15.11
+Unicorn,13,Rainbows,24.31
+Unicorn,24,Rainbows,2.57
+Unicorn,46,Cats,10.04
+No product,28,Rainbows,2.33
+Unicorn,53,Rainbows,13.68
+Unicorn,25,Rainbows,12.91
+Vanilla,34,Cats,10.58
+Unicorn,31,Rainbows,5.94
+No product,92,Black holes,4.46
+No product,48,Black holes,15.37
+Unicorn,15,Black holes,0.18
+Unicorn,68,Black holes,9.91
+Unicorn,17,Rainbows,3.31
+Unicorn,53,Black holes,6.78
+Unicorn,32,Cats,35.8
+Vanilla,41,Cats,40.28
+Unicorn,31,Rainbows,5.77
+Unicorn,27,Rainbows,20.75
+Unicorn,17,Rainbows,2.37
+No product,47,Rainbows,16.14
+Unicorn,16,Black holes,12.65
+Unicorn,17,Rainbows,42.74
+Unicorn,16,Black holes,1.22
+No product,59,Rainbows,4.52
+Unicorn,39,Black holes,0.09
+Vanilla,30,Cats,0.65
+Vanilla,81,Cats,5.47
+Unicorn,21,Rainbows,6.44
+Vanilla,66,Cats,3.7
+Unicorn,12,Cats,1.1
+Vanilla,46,Rainbows,4.32
+Vanilla,60,Rainbows,37.99
+Unicorn,58,Rainbows,15.63
+Unicorn,46,Rainbows,27.87
+No product,65,Rainbows,5.72
+Unicorn,51,Black holes,6.45
+Unicorn,72,Black holes,3.39
+Unicorn,15,Rainbows,6.46
+Unicorn,23,Black holes,14.56
+Vanilla,45,Cats,10.03
+Unicorn,38,Cats,0.1
+Unicorn,34,Rainbows,10.09
+Unicorn,15,Cats,10.76
+Vanilla,49,Cats,9.98
+Unicorn,41,Rainbows,11.5
+Vanilla,25,Rainbows,22.72
+Unicorn,17,Rainbows,3.14
+No product,52,Cats,3.36
+Unicorn,17,Rainbows,14.18
+Unicorn,28,Black holes,1.09
+Unicorn,30,Black holes,2.52
+No product,18,Cats,25.08
+No product,31,Rainbows,1.17
+Unicorn,29,Rainbows,23.79
+Vanilla,55,Rainbows,2.67
+No product,80,Black holes,25.24
+Unicorn,13,Rainbows,15.21
+Unicorn,46,Black holes,0.16
+Unicorn,18,Rainbows,3.23
+Unicorn,14,Black holes,2.73
+No product,24,Rainbows,10.71
+No product,33,Rainbows,7.05
+Vanilla,28,Cats,10.61
+Unicorn,47,Black holes,3.58
+Unicorn,55,Rainbows,3.22
+Vanilla,59,Black holes,8.93
+No product,37,Black holes,0.31
+No product,37,Cats,6.0
+Vanilla,56,Black holes,14.44
+Vanilla,53,Black holes,122.73
+Unicorn,44,Cats,0.73
+Unicorn,41,Rainbows,6.96
+No product,49,Cats,4.87
+Vanilla,19,Rainbows,23.32
+Unicorn,33,Cats,14.95
+Unicorn,28,Black holes,10.57
+Vanilla,37,Rainbows,8.06
+Unicorn,13,Black holes,12.66
+Unicorn,23,Rainbows,0.96
+Unicorn,22,Black holes,34.28
+Vanilla,35,Rainbows,27.93
+Vanilla,39,Rainbows,2.97
+Unicorn,18,Rainbows,20.66
+Vanilla,25,Cats,0.49
+Unicorn,36,Rainbows,18.53
+Unicorn,26,Rainbows,19.62
+Vanilla,68,Black holes,3.63
+Vanilla,47,Cats,6.61
+No product,83,Black holes,1.63
+Vanilla,37,Cats,11.35
+Unicorn,12,Rainbows,30.58
+Unicorn,17,Rainbows,8.9
+Unicorn,34,Black holes,2.53
+Unicorn,12,Black holes,10.87
+Unicorn,43,Rainbows,15.39
+No product,25,Rainbows,9.94
+Unicorn,26,Black holes,15.17
+No product,18,Black holes,32.97
+Vanilla,41,Rainbows,15.17
+Vanilla,43,Cats,38.37
+Unicorn,26,Rainbows,8.35
+Unicorn,30,Black holes,0.8
+Unicorn,42,Black holes,5.25
+Unicorn,21,Rainbows,28.73
+Vanilla,48,Black holes,11.33
+Unicorn,34,Black holes,9.95
+Unicorn,29,Rainbows,8.76
+Vanilla,45,Cats,11.05
+Unicorn,18,Rainbows,3.55
+No product,23,Rainbows,7.68
+No product,74,Black holes,11.67
+No product,51,Rainbows,0.66
+Unicorn,46,Black holes,5.21
+Unicorn,40,Rainbows,25.57
+No product,28,Black holes,5.03
+Unicorn,33,Rainbows,12.44
+No product,66,Rainbows,1.15
+No product,71,Rainbows,8.82
+No product,69,Cats,25.93
+Unicorn,43,Rainbows,17.54
+Unicorn,45,Black holes,6.86
+No product,79,Rainbows,10.08
+Unicorn,35,Rainbows,11.27
+Unicorn,42,Rainbows,3.24
+Unicorn,34,Black holes,13.85
+No product,26,Black holes,0.74
+Vanilla,66,Rainbows,0.82
+Unicorn,34,Black holes,6.32
+Unicorn,31,Rainbows,6.62
+Vanilla,45,Cats,0.56
+No product,60,Rainbows,4.07
+Unicorn,37,Rainbows,11.87
+Unicorn,15,Rainbows,31.19
+No product,39,Rainbows,7.44
+Vanilla,81,Cats,12.73
+Vanilla,60,Rainbows,9.16
+Vanilla,33,Rainbows,29.04
+Unicorn,46,Rainbows,0.75
+Unicorn,45,Rainbows,19.73
+No product,69,Rainbows,4.8
+No product,58,Rainbows,16.68
+No product,62,Cats,15.68
+No product,52,Rainbows,8.8
+Unicorn,11,Black holes,3.92
+Unicorn,42,Black holes,6.65
+Vanilla,67,Cats,2.78
+Vanilla,27,Cats,0.4
+Vanilla,58,Rainbows,9.47
+Vanilla,40,Cats,4.31
+No product,21,Cats,4.35
+Unicorn,14,Black holes,0.25
+Unicorn,21,Rainbows,4.06
+Unicorn,37,Black holes,7.91
+Unicorn,15,Rainbows,0.66
+Unicorn,41,Cats,7.65
+Unicorn,42,Black holes,29.67
+Unicorn,27,Rainbows,1.26
+Unicorn,10,Black holes,16.38
+Unicorn,19,Rainbows,5.97
+Unicorn,31,Black holes,12.06
+Unicorn,62,Rainbows,3.42
+No product,44,Black holes,2.74
+Unicorn,32,Rainbows,1.97
+Unicorn,18,Black holes,1.98
+Unicorn,32,Rainbows,0.83
+Vanilla,62,Rainbows,0.81
+Unicorn,28,Black holes,2.33
+Vanilla,61,Cats,20.49
+Unicorn,39,Rainbows,12.36
+Unicorn,13,Black holes,24.18
+Unicorn,38,Black holes,19.06
+Unicorn,28,Rainbows,13.09
+Vanilla,58,Rainbows,1.88
+Vanilla,57,Cats,14.89
+No product,94,Black holes,1.04
+Unicorn,57,Rainbows,1.33
+Unicorn,21,Rainbows,3.87
+Vanilla,37,Rainbows,5.24
+Unicorn,32,Rainbows,4.2
+Unicorn,51,Rainbows,3.26
+Unicorn,13,Black holes,8.2
+Unicorn,52,Cats,8.69
+No product,82,Black holes,4.08
+No product,13,Black holes,4.96
+Vanilla,24,Rainbows,3.03
+Unicorn,34,Black holes,5.0
+Unicorn,12,Black holes,4.95
+Unicorn,20,Black holes,19.98
+Unicorn,35,Black holes,17.64
+Unicorn,12,Rainbows,4.17
+Vanilla,41,Rainbows,7.59
+Vanilla,31,Rainbows,25.69
+Unicorn,30,Cats,27.77
+No product,20,Black holes,10.48
+Vanilla,52,Black holes,7.91
+Unicorn,21,Black holes,34.6
+Vanilla,39,Rainbows,22.08
+Unicorn,31,Rainbows,4.48
+Unicorn,11,Rainbows,4.96
+Unicorn,45,Rainbows,7.98
+Vanilla,74,Cats,2.13
+Unicorn,60,Rainbows,32.09
+Unicorn,58,Black holes,23.68
+Unicorn,37,Rainbows,1.23
+Unicorn,14,Rainbows,5.65
+No product,18,Rainbows,9.98
+Vanilla,50,Rainbows,23.55
+Unicorn,38,Cats,9.13
+Unicorn,10,Rainbows,7.92
+Unicorn,10,Rainbows,2.44
+Unicorn,20,Rainbows,22.18
+Unicorn,26,Black holes,12.8
+Unicorn,38,Cats,20.62
+Unicorn,34,Rainbows,22.18
+Vanilla,58,Rainbows,4.3
+Vanilla,28,Rainbows,17.98
+Unicorn,24,Black holes,15.63
+Unicorn,19,Rainbows,6.55
+Vanilla,61,Rainbows,13.26
+Unicorn,75,Cats,10.68
+No product,57,Rainbows,0.68
+Vanilla,66,Rainbows,42.06
+Unicorn,24,Black holes,1.98
+Unicorn,25,Black holes,12.69
+Vanilla,44,Black holes,7.78
+Unicorn,15,Rainbows,2.24
+Unicorn,40,Cats,13.41
+No product,66,Cats,4.68
+Unicorn,34,Black holes,2.96
+Unicorn,17,Rainbows,1.42
+Vanilla,49,Black holes,1.09
+Unicorn,12,Black holes,2.05
+Unicorn,34,Rainbows,0.02
+No product,23,Cats,1.87
+Unicorn,33,Black holes,14.37
+No product,42,Cats,1.59
+No product,68,Black holes,16.33
+Unicorn,19,Rainbows,14.94
+Unicorn,54,Black holes,8.2
+Unicorn,15,Rainbows,1.99
+Unicorn,24,Rainbows,0.99
+Unicorn,53,Rainbows,0.22
+Vanilla,55,Black holes,0.31
+Unicorn,24,Rainbows,2.05
+Unicorn,32,Rainbows,25.1
+No product,58,Black holes,0.4
+Unicorn,23,Rainbows,3.13
+No product,44,Black holes,5.05
+Unicorn,19,Rainbows,4.96
+Unicorn,64,Rainbows,1.26
+Vanilla,31,Black holes,27.87
+Vanilla,45,Black holes,11.82
+No product,47,Black holes,1.71
+Vanilla,41,Rainbows,23.72
+No product,42,Rainbows,19.67
+Unicorn,23,Rainbows,2.85
+Unicorn,47,Black holes,8.3
+Vanilla,29,Black holes,4.24
+No product,29,Black holes,7.57
+No product,45,Rainbows,2.45
+Unicorn,17,Rainbows,10.6
+Unicorn,17,Cats,3.19
+Vanilla,40,Cats,6.73
+Unicorn,11,Black holes,0.67
+No product,54,Rainbows,6.49
+No product,72,Cats,12.23
+Unicorn,32,Black holes,5.62
+Vanilla,23,Black holes,0.49
+Vanilla,17,Cats,51.75
+Unicorn,22,Rainbows,3.02
+No product,50,Rainbows,29.51
+Unicorn,44,Black holes,2.81
+No product,60,Rainbows,2.32
+Unicorn,25,Rainbows,36.43
+No product,20,Rainbows,20.21
+Unicorn,58,Rainbows,10.85
+Unicorn,16,Rainbows,9.22
+No product,39,Cats,25.32
+Unicorn,45,Black holes,6.09
+Unicorn,39,Rainbows,6.35
+No product,10,Black holes,23.08
+No product,26,Black holes,9.38
+Unicorn,38,Rainbows,8.82
+Vanilla,29,Rainbows,17.51
+Unicorn,43,Cats,13.51
+Unicorn,38,Black holes,13.72
+Unicorn,31,Rainbows,2.13
+Vanilla,71,Cats,43.0
+Vanilla,47,Cats,4.9
+Vanilla,72,Black holes,15.02
+Vanilla,42,Cats,18.03
+Unicorn,14,Rainbows,7.86
+Unicorn,11,Black holes,6.02
+Unicorn,50,Rainbows,23.16
+Unicorn,31,Rainbows,11.31
+Unicorn,40,Rainbows,8.61
+No product,57,Cats,9.24
+Unicorn,26,Cats,1.39
+Unicorn,14,Black holes,10.54
+Unicorn,14,Black holes,1.41
+Vanilla,37,Rainbows,6.07
+Vanilla,45,Rainbows,29.95
+Unicorn,34,Black holes,4.66
+Unicorn,24,Rainbows,1.75
+Vanilla,42,Cats,46.72
+Unicorn,16,Rainbows,13.35
+No product,96,Cats,4.8
+Vanilla,26,Cats,34.35
+Unicorn,26,Rainbows,2.62
+Unicorn,12,Rainbows,5.63
+No product,16,Rainbows,12.98
+Unicorn,30,Rainbows,25.61
+Unicorn,19,Black holes,2.59
+No product,35,Black holes,7.05
+No product,64,Black holes,10.52
+No product,23,Black holes,5.2
+Vanilla,50,Rainbows,21.35
+Unicorn,40,Black holes,8.03
+Unicorn,20,Black holes,6.16
+Vanilla,33,Rainbows,5.16
+Unicorn,25,Rainbows,0.21
+Unicorn,10,Black holes,17.83
+No product,45,Rainbows,12.23
+Unicorn,12,Black holes,0.81
+Unicorn,23,Rainbows,7.28
+Unicorn,26,Black holes,9.32
+Unicorn,30,Rainbows,11.22
+Unicorn,19,Rainbows,13.22
+Unicorn,34,Rainbows,3.31
+Unicorn,44,Rainbows,0.11
+Vanilla,49,Rainbows,5.26
+Vanilla,50,Rainbows,52.54
+Unicorn,39,Rainbows,14.56
+No product,58,Cats,16.18
+Unicorn,11,Black holes,8.69
+Unicorn,26,Cats,20.49
+No product,49,Black holes,1.47
+Unicorn,13,Black holes,19.52
+No product,22,Rainbows,16.64
+Unicorn,18,Black holes,21.0
+No product,32,Black holes,7.23
+Unicorn,65,Rainbows,7.52
+No product,63,Rainbows,17.32
+Unicorn,14,Black holes,4.6
+No product,45,Rainbows,5.25
+Unicorn,26,Rainbows,17.77
+Unicorn,31,Rainbows,6.8
+No product,10,Black holes,4.43
+Unicorn,35,Rainbows,2.3
+Vanilla,30,Cats,0.16
+Vanilla,22,Black holes,20.0
+Unicorn,29,Rainbows,21.88
+Vanilla,56,Rainbows,19.47
+Unicorn,10,Rainbows,24.27
+No product,60,Rainbows,22.93
+Unicorn,20,Rainbows,7.11
+Unicorn,27,Rainbows,0.89
+No product,12,Black holes,2.69
+No product,59,Black holes,17.29
+Unicorn,13,Cats,5.56
+Vanilla,43,Rainbows,15.49
+Unicorn,21,Rainbows,18.44
+Unicorn,11,Rainbows,26.29
+Unicorn,12,Rainbows,2.58
+Unicorn,23,Black holes,0.79
+Unicorn,14,Rainbows,23.78
+Unicorn,29,Rainbows,5.59
+No product,23,Rainbows,6.15
+No product,86,Cats,6.71
+Vanilla,22,Rainbows,73.35
+Unicorn,34,Rainbows,8.84
+Unicorn,40,Rainbows,39.02
+No product,33,Rainbows,3.43
+Vanilla,83,Rainbows,5.94
+Unicorn,16,Rainbows,0.78
+No product,30,Rainbows,7.91
+No product,19,Rainbows,3.66
+No product,29,Rainbows,0.37
+Vanilla,22,Cats,6.6
+Vanilla,52,Cats,1.31
+Unicorn,15,Rainbows,11.84
+No product,73,Rainbows,2.95
+No product,98,Black holes,0.06
+Unicorn,13,Rainbows,0.87
+Unicorn,32,Rainbows,5.33
+Unicorn,35,Rainbows,18.45
+No product,33,Cats,35.65
+No product,38,Rainbows,31.38
+Unicorn,11,Black holes,6.44
+Unicorn,52,Rainbows,66.53
+Unicorn,11,Rainbows,9.28
+No product,57,Black holes,4.68
+No product,74,Black holes,12.12
+No product,47,Cats,3.95
+Unicorn,28,Rainbows,4.39
+Unicorn,35,Cats,2.82
+Unicorn,45,Rainbows,4.89
+Unicorn,35,Rainbows,5.28
+No product,34,Black holes,10.34
+No product,36,Rainbows,15.22
+No product,55,Rainbows,27.28
+No product,10,Black holes,4.75
+Unicorn,40,Black holes,0.81
+Vanilla,77,Cats,9.29
+No product,49,Cats,14.22
+No product,32,Rainbows,2.88
+Unicorn,21,Rainbows,5.23
+Unicorn,41,Rainbows,7.07
+Unicorn,12,Rainbows,14.53
+No product,64,Rainbows,43.14
+Vanilla,34,Rainbows,4.81
+Unicorn,47,Black holes,12.11
+Vanilla,29,Cats,6.68
+Vanilla,28,Cats,28.59
+Unicorn,28,Rainbows,13.98
+Unicorn,41,Black holes,0.1
+Vanilla,37,Cats,43.55
+Unicorn,25,Cats,2.78
+Vanilla,26,Black holes,3.26
+Unicorn,32,Rainbows,12.28
+No product,16,Cats,0.24
+Unicorn,27,Rainbows,7.5
+Unicorn,36,Rainbows,0.06
+No product,47,Cats,8.6
+Unicorn,12,Rainbows,18.49
+Unicorn,12,Rainbows,16.79
+Unicorn,18,Cats,9.01
+Vanilla,52,Rainbows,7.41
+Vanilla,23,Rainbows,41.95
+Vanilla,45,Rainbows,1.01
+Unicorn,15,Black holes,0.78
+Unicorn,45,Black holes,16.48
+Unicorn,17,Rainbows,9.93
+Unicorn,60,Black holes,17.26
+Unicorn,21,Cats,15.79
+Unicorn,16,Black holes,18.41
+Unicorn,39,Rainbows,8.27
+No product,40,Cats,10.02
+Unicorn,33,Black holes,1.71
+Unicorn,26,Rainbows,12.6
+Vanilla,85,Rainbows,1.54
+Unicorn,28,Rainbows,10.98
+Vanilla,58,Rainbows,2.82
+No product,51,Black holes,10.83
+No product,14,Rainbows,1.19
+Unicorn,36,Rainbows,15.36
+No product,46,Black holes,25.94
+Unicorn,17,Black holes,2.11
+Unicorn,74,Black holes,2.46
+Unicorn,60,Rainbows,25.05
+No product,45,Black holes,1.86
+Unicorn,32,Rainbows,15.71
+Unicorn,16,Rainbows,27.06
+Vanilla,49,Black holes,14.37
+Unicorn,34,Rainbows,16.11
+Unicorn,12,Rainbows,10.3
+Unicorn,11,Rainbows,12.03
+Unicorn,18,Black holes,24.92
+Unicorn,25,Rainbows,9.8
+Unicorn,45,Rainbows,11.34
+Vanilla,37,Cats,2.59
+Unicorn,36,Rainbows,1.93
+Unicorn,37,Cats,7.28
+No product,45,Rainbows,9.07
+Unicorn,24,Black holes,14.28
+Vanilla,49,Black holes,54.73
+Unicorn,21,Black holes,3.58
+Unicorn,22,Rainbows,2.56
+Unicorn,66,Rainbows,4.27
+Unicorn,11,Rainbows,3.13
+Unicorn,45,Black holes,2.74
+Unicorn,29,Cats,6.27
+Unicorn,24,Black holes,27.01
+Unicorn,36,Black holes,8.01
+Unicorn,26,Black holes,2.36
+Unicorn,45,Rainbows,0.91
+Unicorn,48,Cats,13.5
+Unicorn,24,Rainbows,5.47
+Vanilla,46,Rainbows,9.4
+Unicorn,19,Rainbows,19.54
+Vanilla,42,Cats,11.06
+Vanilla,28,Cats,4.5
+Unicorn,30,Rainbows,12.21
+No product,48,Black holes,2.34
+No product,53,Black holes,3.41
+Unicorn,49,Rainbows,18.02
+Unicorn,17,Rainbows,3.6
+No product,65,Rainbows,7.35
+Vanilla,63,Cats,10.12
+Unicorn,31,Rainbows,13.36
+Unicorn,32,Rainbows,3.47
+Unicorn,36,Rainbows,31.7
+Unicorn,14,Rainbows,11.46
+Vanilla,43,Cats,17.23
+Unicorn,35,Rainbows,4.44
+Unicorn,49,Rainbows,3.56
+Vanilla,32,Black holes,22.1
+Unicorn,16,Rainbows,2.4
+Unicorn,18,Black holes,13.44
+Vanilla,40,Cats,22.28
+No product,27,Black holes,5.02
+Unicorn,59,Black holes,2.8
+Unicorn,16,Black holes,10.25
+Unicorn,44,Black holes,3.48
+Unicorn,26,Rainbows,12.29
+Unicorn,18,Black holes,19.11
+Unicorn,45,Rainbows,17.05
+Unicorn,24,Rainbows,16.21
+Unicorn,27,Black holes,2.36
+Unicorn,22,Rainbows,1.05
+Unicorn,30,Black holes,13.6
+Unicorn,15,Black holes,5.21
+Unicorn,23,Black holes,6.42
+Unicorn,59,Cats,0.36
+No product,67,Black holes,1.62
+Unicorn,18,Rainbows,3.41
+Vanilla,41,Rainbows,13.7
+Vanilla,59,Rainbows,37.3
+Unicorn,33,Rainbows,0.39
+Unicorn,20,Rainbows,23.95
+Unicorn,38,Rainbows,3.16
+Unicorn,14,Black holes,9.23
+Vanilla,54,Rainbows,27.02
+Unicorn,59,Black holes,0.45
+Unicorn,25,Black holes,12.45
+Unicorn,17,Rainbows,4.42
+Unicorn,12,Rainbows,25.85
+Vanilla,56,Rainbows,22.48
+Unicorn,15,Rainbows,24.82
+Unicorn,27,Rainbows,4.46
+No product,41,Cats,1.74
+Vanilla,14,Rainbows,0.91
+Unicorn,21,Black holes,26.2
+Unicorn,42,Rainbows,63.01
+Unicorn,24,Rainbows,19.77
+Unicorn,18,Rainbows,21.11
+Unicorn,31,Black holes,3.24
+Unicorn,35,Black holes,9.74
+Unicorn,15,Rainbows,0.79
+Unicorn,15,Rainbows,1.13
+No product,15,Rainbows,5.04
+Unicorn,11,Rainbows,77.11
+Unicorn,36,Rainbows,4.48
+Unicorn,33,Black holes,15.62
+No product,14,Rainbows,13.17
+Unicorn,26,Black holes,18.62
+Unicorn,43,Rainbows,22.12
+No product,31,Black holes,21.23
+No product,63,Rainbows,0.82
+No product,56,Black holes,4.64
+Unicorn,40,Rainbows,68.48
+Unicorn,30,Cats,3.13
+Vanilla,42,Cats,0.11
+No product,63,Black holes,0.98
+Unicorn,45,Rainbows,0.47
+Unicorn,16,Black holes,6.0
+Unicorn,13,Rainbows,1.58
+Vanilla,44,Cats,3.79
+Unicorn,19,Rainbows,0.26
+Unicorn,11,Rainbows,5.06
+Unicorn,28,Rainbows,17.35
+Unicorn,52,Cats,9.46
+Unicorn,11,Rainbows,4.25
+Unicorn,14,Rainbows,12.04
+Vanilla,16,Black holes,17.31
+Unicorn,25,Rainbows,2.99
+Unicorn,52,Rainbows,0.16
+Unicorn,20,Rainbows,16.38
+Unicorn,27,Rainbows,11.07
+Unicorn,11,Black holes,16.28
+Unicorn,15,Rainbows,0.45
+Unicorn,65,Rainbows,20.56
+Unicorn,57,Cats,10.95
+Unicorn,10,Rainbows,9.39
+No product,42,Rainbows,0.16
+Unicorn,55,Cats,11.1
+No product,37,Black holes,10.08
+Unicorn,32,Rainbows,22.64
+Vanilla,35,Rainbows,8.42
+Vanilla,55,Cats,8.18
+Unicorn,45,Black holes,10.02
+Unicorn,25,Black holes,9.85
+Unicorn,27,Black holes,52.97
+Unicorn,26,Cats,16.02
+No product,19,Black holes,8.58
+No product,31,Rainbows,1.65
+No product,37,Cats,2.48
+Unicorn,33,Rainbows,6.62
+Vanilla,29,Cats,34.31
+No product,16,Cats,0.22
+Unicorn,14,Cats,13.92
+Unicorn,11,Rainbows,5.59
+Vanilla,46,Rainbows,35.9
+Unicorn,20,Rainbows,2.94
+No product,24,Black holes,16.75
+Unicorn,35,Rainbows,10.29
+Vanilla,33,Cats,38.12
+Unicorn,16,Rainbows,29.84
+Unicorn,33,Rainbows,29.99
+Unicorn,59,Rainbows,4.74
+No product,48,Black holes,34.19
+Vanilla,14,Rainbows,5.99
+Unicorn,13,Rainbows,8.5
+Unicorn,33,Black holes,2.69
+No product,58,Black holes,1.35
+Unicorn,24,Black holes,61.56
+No product,99,Cats,2.45
+Unicorn,45,Rainbows,44.97
+Unicorn,16,Rainbows,11.88
+Unicorn,34,Rainbows,18.49
+Unicorn,42,Rainbows,14.23
+Vanilla,34,Rainbows,18.66
+Unicorn,53,Rainbows,10.19
+Unicorn,34,Rainbows,0.62
+No product,81,Black holes,18.86
+Unicorn,26,Rainbows,6.87
+Unicorn,31,Cats,12.73
+No product,51,Black holes,24.27
+Vanilla,74,Cats,5.04
+Unicorn,45,Rainbows,12.82
+No product,36,Cats,5.06
+Vanilla,57,Rainbows,3.36
+Unicorn,29,Rainbows,5.29
+Unicorn,11,Rainbows,32.2
+Vanilla,71,Black holes,3.24
+Vanilla,44,Cats,6.65
+Unicorn,51,Rainbows,2.08
+No product,50,Rainbows,0.48
+Vanilla,27,Cats,8.93
+Unicorn,34,Rainbows,7.86
+Unicorn,33,Black holes,13.3
+Unicorn,17,Rainbows,13.53
+Vanilla,46,Rainbows,28.25
+Unicorn,33,Rainbows,11.85
+Unicorn,23,Cats,3.65
+Vanilla,43,Rainbows,2.03
+No product,63,Cats,0.37
+Unicorn,32,Black holes,1.92
+No product,18,Rainbows,7.93
+Unicorn,13,Black holes,11.45
+No product,36,Rainbows,4.64
+Unicorn,33,Rainbows,10.36
+Unicorn,84,Black holes,2.24
+Vanilla,60,Rainbows,21.1
+Unicorn,11,Rainbows,13.84
+Unicorn,61,Rainbows,6.88
+Vanilla,26,Cats,12.05
+Vanilla,44,Black holes,5.4
+Vanilla,29,Rainbows,10.79
+Vanilla,38,Cats,5.67
+Unicorn,23,Rainbows,12.48
+Unicorn,45,Rainbows,20.58
+Unicorn,39,Rainbows,2.11
+Unicorn,29,Rainbows,0.22
+No product,68,Rainbows,0.27
+Unicorn,36,Cats,17.11
+Unicorn,46,Cats,10.66
+Unicorn,23,Black holes,13.63
+No product,34,Cats,8.14
+Unicorn,20,Rainbows,20.63
+Unicorn,33,Black holes,18.4
+Unicorn,40,Rainbows,36.73
+Vanilla,54,Black holes,14.4
+Unicorn,38,Black holes,8.7
+No product,46,Cats,0.11
+No product,47,Black holes,14.4
+Unicorn,40,Rainbows,7.6
+Vanilla,44,Rainbows,9.04
+No product,22,Black holes,3.4
+Vanilla,40,Black holes,2.85
+Unicorn,24,Black holes,5.82
+Unicorn,41,Rainbows,1.89
+Vanilla,41,Cats,1.97
+Unicorn,14,Black holes,9.63
+Vanilla,43,Rainbows,12.57
+No product,33,Black holes,0.38
+No product,31,Cats,8.25
+Unicorn,28,Cats,3.68
+Unicorn,10,Rainbows,28.8
+No product,11,Black holes,4.71
+No product,11,Rainbows,33.87
+Unicorn,20,Rainbows,9.92
+No product,67,Rainbows,7.31
+No product,27,Black holes,2.99
+Unicorn,22,Cats,10.18
+Unicorn,23,Rainbows,4.97
+Unicorn,34,Black holes,0.6
+Unicorn,23,Rainbows,0.37
+Unicorn,25,Rainbows,6.24
+No product,42,Black holes,11.49
+Unicorn,18,Rainbows,1.0
+Unicorn,22,Rainbows,10.58
+Unicorn,17,Black holes,24.11
+Unicorn,12,Rainbows,24.3
+No product,29,Rainbows,2.95
+Unicorn,30,Rainbows,12.19
+Unicorn,33,Rainbows,2.69
+Vanilla,56,Rainbows,36.98
+Unicorn,31,Rainbows,22.52
+Unicorn,25,Black holes,24.61
+Unicorn,22,Cats,2.48
+Unicorn,44,Rainbows,15.15
+Unicorn,27,Black holes,3.83
+Unicorn,26,Black holes,18.39
+Unicorn,10,Rainbows,66.75
+No product,83,Rainbows,21.82
+Unicorn,21,Cats,0.35
+Unicorn,22,Rainbows,25.79
+Vanilla,63,Cats,6.7
+Unicorn,23,Rainbows,11.04
+Vanilla,70,Black holes,20.98
+Unicorn,29,Black holes,41.08
+No product,26,Cats,4.37
+Unicorn,28,Rainbows,7.09
+Unicorn,31,Black holes,21.3
+Unicorn,38,Black holes,0.73
+No product,37,Rainbows,7.42
+Unicorn,41,Rainbows,4.63
+Unicorn,35,Black holes,0.79
+Unicorn,55,Rainbows,41.95
+Vanilla,57,Black holes,17.08
+Unicorn,10,Rainbows,19.24
+No product,72,Black holes,0.48
+Unicorn,16,Black holes,21.69
+Unicorn,10,Cats,31.5
+Unicorn,32,Rainbows,1.01
+Unicorn,47,Rainbows,5.52
+Unicorn,18,Black holes,0.83
+Unicorn,51,Black holes,2.68
+Vanilla,38,Black holes,42.61
+Unicorn,12,Black holes,2.95
+Unicorn,52,Rainbows,7.17
+Unicorn,21,Rainbows,3.54
+Unicorn,13,Rainbows,1.21
+Unicorn,26,Black holes,2.08
+Unicorn,18,Rainbows,1.81
+Unicorn,19,Rainbows,40.96
+No product,69,Cats,5.16
+No product,22,Black holes,16.61
+Unicorn,20,Cats,16.14
+Unicorn,40,Rainbows,38.91
+Vanilla,52,Rainbows,27.33
+Unicorn,28,Cats,6.56
+Unicorn,20,Black holes,3.7
+Unicorn,31,Black holes,18.14
+Vanilla,42,Rainbows,13.29
+Vanilla,35,Black holes,17.0
+Unicorn,35,Rainbows,4.47
+Unicorn,19,Rainbows,4.03
+Unicorn,23,Black holes,3.0
+Vanilla,60,Rainbows,36.33
+Unicorn,14,Black holes,1.57
+Unicorn,16,Black holes,3.36
+Vanilla,20,Rainbows,8.1
+Unicorn,34,Rainbows,4.97
+Vanilla,64,Cats,6.29
+Unicorn,16,Black holes,12.7
+Unicorn,27,Black holes,0.73
+Unicorn,35,Black holes,2.68
+Vanilla,43,Cats,0.17
+No product,64,Rainbows,15.23
+No product,39,Black holes,2.36
+Unicorn,13,Black holes,18.76
+Vanilla,50,Cats,27.84
+Unicorn,29,Black holes,1.8
+Unicorn,18,Black holes,4.75
+No product,40,Cats,2.38
+Unicorn,57,Rainbows,22.66
+Unicorn,26,Rainbows,1.91
+Unicorn,40,Rainbows,0.98
+Unicorn,28,Rainbows,7.51
+Unicorn,11,Rainbows,4.08
+Unicorn,32,Rainbows,9.39
+Unicorn,55,Rainbows,18.45
+No product,18,Black holes,15.81
+No product,15,Cats,24.78
+Unicorn,30,Rainbows,1.67
+Unicorn,41,Black holes,9.85
+Unicorn,46,Cats,7.98
+Unicorn,17,Rainbows,1.76
+Unicorn,17,Cats,11.08
+Vanilla,51,Cats,25.65
+Unicorn,31,Rainbows,3.62
+Unicorn,23,Rainbows,7.58
+Unicorn,43,Rainbows,0.97
+Unicorn,48,Rainbows,6.97
+No product,58,Rainbows,0.93
+Vanilla,63,Rainbows,1.75
+Unicorn,21,Black holes,4.15
+No product,41,Black holes,5.56
+Unicorn,17,Black holes,19.58
+No product,37,Black holes,3.83
+Vanilla,50,Cats,13.67
+Unicorn,39,Rainbows,0.66
+Unicorn,19,Rainbows,6.14
+Unicorn,41,Rainbows,6.95
+Unicorn,24,Rainbows,14.63
+Vanilla,49,Rainbows,9.91
+Unicorn,33,Rainbows,9.68
+Unicorn,13,Rainbows,12.47
+No product,58,Cats,19.02
+No product,61,Rainbows,0.81
+Unicorn,31,Black holes,17.0
+Unicorn,25,Cats,22.46
+Unicorn,30,Rainbows,4.27
+Unicorn,15,Cats,8.75
+No product,20,Cats,2.21
+Unicorn,36,Rainbows,20.77
+Unicorn,44,Rainbows,51.57
+Unicorn,17,Rainbows,24.96
+Unicorn,13,Black holes,5.26
+Vanilla,23,Cats,2.01
+No product,49,Black holes,12.98
+Unicorn,10,Cats,2.46
+Unicorn,32,Black holes,7.62
+Unicorn,31,Rainbows,15.33
+No product,19,Rainbows,0.49
+No product,60,Rainbows,6.31
+Unicorn,28,Black holes,7.69
+Vanilla,45,Cats,62.62
+Vanilla,29,Cats,3.84
+Unicorn,17,Rainbows,7.48
+No product,52,Cats,5.43
+Unicorn,23,Black holes,20.64
+Unicorn,30,Rainbows,5.08
+Unicorn,26,Rainbows,22.26
+Unicorn,66,Rainbows,5.92
+Unicorn,14,Black holes,4.51
+Vanilla,54,Cats,1.11
+Unicorn,34,Rainbows,6.86
+Vanilla,45,Black holes,14.36
+Unicorn,23,Black holes,16.29
+Unicorn,24,Rainbows,1.53
+Unicorn,35,Black holes,2.48
+Unicorn,34,Black holes,34.27
+Vanilla,52,Rainbows,21.34
+Unicorn,68,Black holes,2.19
+Unicorn,14,Rainbows,9.5
+Unicorn,13,Rainbows,9.81
+Vanilla,20,Black holes,0.52
+No product,86,Rainbows,3.79
+Vanilla,25,Black holes,17.08
+Unicorn,36,Rainbows,7.62
+Unicorn,29,Black holes,11.73
+Unicorn,19,Rainbows,2.96
+Unicorn,12,Rainbows,9.11
+Unicorn,12,Rainbows,5.27
+Unicorn,47,Rainbows,12.28
+Unicorn,16,Black holes,1.72
+Unicorn,20,Rainbows,9.59
+Vanilla,53,Rainbows,12.07
+Unicorn,17,Black holes,2.32
+Unicorn,21,Rainbows,3.7
+Vanilla,24,Cats,1.73
+Unicorn,12,Rainbows,2.8
+Vanilla,23,Cats,3.01
+Unicorn,27,Rainbows,2.29
+Unicorn,12,Rainbows,19.79
+No product,14,Rainbows,4.67
+Vanilla,14,Rainbows,13.34
+Vanilla,70,Cats,5.59
+Unicorn,40,Rainbows,3.81
+Unicorn,17,Black holes,29.67
+Unicorn,28,Rainbows,39.7
+Unicorn,46,Black holes,9.6
+No product,13,Rainbows,7.02
+Unicorn,32,Rainbows,1.75
+No product,28,Cats,1.64
+Unicorn,28,Rainbows,5.32
